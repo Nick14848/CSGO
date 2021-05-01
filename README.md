@@ -1,0 +1,2 @@
+# CSGO
+CS-GO competition
